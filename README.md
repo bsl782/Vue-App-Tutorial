@@ -1,6 +1,6 @@
-# vue-app
+# Vue-App-Tutorial
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
@@ -22,5 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# Vue-App-Tutorial
-# Vue-App-Tutorial
